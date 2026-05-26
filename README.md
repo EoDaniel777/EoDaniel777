@@ -117,8 +117,20 @@
 ### 📂 CLASSIFIED PROJECTS (FEATURED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EoDaniel777&repo=DroidPanel&theme=tokyonight&border_color=00e5a0&title_color=00e5a0" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EoDaniel777&repo=Atlas&theme=tokyonight&border_color=00e5a0&title_color=00e5a0" />
+  <table align="center">
+    <tr>
+      <td align="center" width="400">
+        <img src="https://img.shields.io/badge/📁_DroidPanel-00e5a0?style=for-the-badge&logoColor=05090f" /><br/>
+        <code>[[ STATUS: CLASSIFIED / PRIVATE ]]</code><br/>
+        <b>Go · GoFiber · Svelte · Docker · ADB</b>
+      </td>
+      <td align="center" width="400">
+        <img src="https://img.shields.io/badge/📁_Atlas-00e5a0?style=for-the-badge&logoColor=05090f" /><br/>
+        <code>[[ STATUS: CLASSIFIED / PRIVATE ]]</code><br/>
+        <b>Go · Gin · React · PostgreSQL · Redis</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -126,18 +138,18 @@
 ### 📊 THREAT METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EoDaniel777&show_icons=true&theme=tokyonight&border_color=00e5a0&title_color=00e5a0&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EoDaniel777&show_icons=true&theme=tokyonight&border_color=00e5a0&title_color=00e5a0" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EoDaniel777&theme=tokyonight&border=00e5a0&stroke=00e5a0&ring=00e5a0&fire=00e5a0&currStreakNum=00e5a0" />
 </p>
 
-<h4 align="center">📊 CORE PROFICIENCY (MANUAL OVERRIDE)</h4>
+<h4 align="center">⚔️ CORE PROFICIENCY (SENIORITY OVERRIDE)</h4>
 
 <p align="center">
-  <code><b>Golang      </b></code> <img src="https://geps.dev/progress/95?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> 95% <br/>
-  <code><b>Rust        </b></code> <img src="https://geps.dev/progress/65?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> 65% <br/>
-  <code><b>Kotlin/Dart </b></code> <img src="https://geps.dev/progress/80?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> 80% <br/>
-  <code><b>Security    </b></code> <img src="https://geps.dev/progress/90?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> 90%
+  <code><b>GOLANG      </b></code> <img src="https://geps.dev/progress/95?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> <code><b>95%</b></code> <br/>
+  <code><b>RUST        </b></code> <img src="https://geps.dev/progress/65?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> <code><b>65%</b></code> <br/>
+  <code><b>KOTLIN/DART </b></code> <img src="https://geps.dev/progress/80?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> <code><b>80%</b></code> <br/>
+  <code><b>SECURITY    </b></code> <img src="https://geps.dev/progress/90?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> <code><b>90%</b></code>
 </p>
 
 <p align="center">
