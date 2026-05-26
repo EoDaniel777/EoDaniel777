@@ -126,13 +126,21 @@
 ### 📊 THREAT METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EoDaniel777&show_icons=true&theme=tokyonight&border_color=00e5a0&title_color=00e5a0&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EoDaniel777&show_icons=true&theme=tokyonight&border_color=00e5a0&title_color=00e5a0&hide_border=false&count_private=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EoDaniel777&theme=tokyonight&border=00e5a0&stroke=00e5a0&ring=00e5a0&fire=00e5a0&currStreakNum=00e5a0" />
 </p>
 
+<h4 align="center">📊 CORE PROFICIENCY (MANUAL OVERRIDE)</h4>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EoDaniel777&layout=compact&theme=tokyonight&border_color=00e5a0&hide=css,html,javascript" />
+  <code><b>Golang      </b></code> <img src="https://geps.dev/progress/95?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> 95% <br/>
+  <code><b>Rust        </b></code> <img src="https://geps.dev/progress/65?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> 65% <br/>
+  <code><b>Kotlin/Dart </b></code> <img src="https://geps.dev/progress/80?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> 80% <br/>
+  <code><b>Security    </b></code> <img src="https://geps.dev/progress/90?dangerColor=00e5a0&warningColor=00e5a0&successColor=00e5a0" /> 90%
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EoDaniel777&theme=tokyonight" />
 </p>
 
